@@ -1,0 +1,9 @@
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\bin\Debug\Perpetual Timer.exe.config
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\bin\Debug\Perpetual Timer.exe
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\bin\Debug\Perpetual Timer.pdb
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\obj\Debug\Perpetual Timer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\obj\Debug\Perpetual_Timer.Properties.Resources.resources
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\obj\Debug\Perpetual Timer.csproj.GenerateResource.Cache
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\obj\Debug\Perpetual Timer.exe
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\obj\Debug\Perpetual Timer.pdb
+D:\Visual Studio 2017 Projects\Perpetual Timer\Perpetual Timer\obj\Debug\Perpetual_Timer.TimerForm.resources
